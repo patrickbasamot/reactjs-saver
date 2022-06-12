@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactjs-saver/static/css/main.809a6748.css",
+    "main.js": "/reactjs-saver/static/js/main.02491c3a.js",
+    "index.html": "/reactjs-saver/index.html",
+    "main.809a6748.css.map": "/reactjs-saver/static/css/main.809a6748.css.map",
+    "main.02491c3a.js.map": "/reactjs-saver/static/js/main.02491c3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.809a6748.css",
+    "static/js/main.02491c3a.js"
+  ]
+}
